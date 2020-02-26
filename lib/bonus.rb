@@ -18,10 +18,9 @@ def bonus
           {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-   epic_tragedy[:hero][2] = "dead"
   }
 
-  
+  epic_tragedy[:hero][2] = "dead"
   
 
   
